@@ -1,0 +1,30 @@
+{
+  "name": "project-cult-clone",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Pixel-perfect clone of project://cult (project-cult.digital) with all animations, fonts, typography, audio, and videos",
+  "scripts": {
+    "dev": "vite",
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "project-cult",
+    "awwwards",
+    "clone",
+    "cyberpunk",
+    "design-system"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^8.3.6"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^6.2.1",
+    "lucide-react": "^1.70.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  }
+}
